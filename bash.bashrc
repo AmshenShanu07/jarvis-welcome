@@ -7,9 +7,7 @@ mpv /$HOME/jarvis-welcome/terminal.mp3
 clear
 echo -e "Created By \e[5mAmshenShanu"
 echo "----------------------------" | lolcat
-echo ""echo "----------------------------" | lolcat
 echo "
-
 o      o        8
 8      8        8
 8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
