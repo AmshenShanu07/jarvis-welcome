@@ -1,25 +1,26 @@
-# TERMUX Parrot Shell 
-#### Beautify your Termux App 😎
+# jarvis-welcome 
+#### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
 ```
 apt update
 apt install git -y
-git clone https://github.com/htr-tech/termux-shell.git
-cd termux-shell
+pkg install mpv -y
+git clone https://github.com/AmshenShanu07/jarvis-welcome.git
+cd jarvis-welcome
 chmod +x *
 sh install.sh
 exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
+apt update && apt install git -y && pkg install mpv && git clone  https://github.com/AmshenShanu07/jarvis-welcome.git && cd jarvis-welcome && chmod +x * && ./install.sh
 ```
 
-#### Credit : https://github.com/TechnicalMujeeb/
+# thanks to https://github.com/htr-tech 
+ # For providing the code
 
     
 ## [+] Find Me on :
-#### Instagram : @tahmid.rayat
-#### Facebook : tahmid.rayat.official
-#### Github : htr-tech
+#### Telegram :https://t.me/AmshenShanu
+#### Plzz text your errors to this grp :https://t.me/joinchat/NM1A0FN8Bu-swiQNFRhdgw
