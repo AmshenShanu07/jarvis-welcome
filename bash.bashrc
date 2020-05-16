@@ -14,5 +14,6 @@ o      o        8
 8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
  b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
   8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
+  
 date | lolcat
 echo ""
