@@ -24,3 +24,4 @@ apt update && apt install git -y && pkg install mpv && git clone  https://github
 ## [+] Find Me on :
 #### Telegram :https://t.me/AmshenShanu
 #### Plzz text your errors to this grp :https://t.me/joinchat/NM1A0FN8Bu-swiQNFRhdgw
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/fridayuserbot)
