@@ -16,7 +16,12 @@ exit
 ```
 apt update && apt install git -y && pkg install mpv && git clone  https://github.com/AmshenShanu07/jarvis-welcome.git && cd jarvis-welcome && chmod +x * && ./install.sh
 ```
+## [+]How to remove 
+```
+cd jarvis-welcome
 
+bash rvt.sh
+```
 # thanks to https://github.com/htr-tech 
  # For providing the code
 
