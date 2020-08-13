@@ -1,3 +1,4 @@
+pip install bs4
 cd
 cd ..
 cd usr/etc
