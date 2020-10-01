@@ -15,6 +15,7 @@ o      o        8
  b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
   8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
 echo ""
-  
+neofetch
+echo " "
 date | lolcat
 echo ""
